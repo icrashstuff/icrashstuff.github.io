@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Tech Tigers FTC Program", "index.html", [
-    [ "TechTigersFTCUltimateGoal", "index.html", null ],
+    [ "Tech Tigers FTC Program Docs", "index.html", null ],
     [ "Classes", "annotated.html", [
       [ "ArmServos", "classorg_1_1firstinspires_1_1ftc_1_1teamcode_1_1_arm_servos.html", "classorg_1_1firstinspires_1_1ftc_1_1teamcode_1_1_arm_servos" ],
       [ "SuperSecretTelemetry", "classorg_1_1firstinspires_1_1ftc_1_1teamcode_1_1_super_secret_telemetry.html", null ],
