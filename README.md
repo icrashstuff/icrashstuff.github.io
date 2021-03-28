@@ -1,2 +1,3 @@
 # icrashstuff.github.io
-Website
+
+[icrashstuff.github.io](icrashstuff.github.io)
